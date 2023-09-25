@@ -1,0 +1,13 @@
+colorama
+cryptography
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-Migrate
+Flask-SQLAlchemy
+flask-restx
+minio
+PyPika
+python-dotenv
+requests
+SQLAlchemy
